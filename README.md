@@ -16,7 +16,7 @@
 
 ## 👋 Hi, I’m @brusilvadev
 
-### Sobre mim
+### About me
 - 👀 I’m interested in creating interactive and visually captivating web experiences, always learning about the latest in web design and front-end development.
 - 🌱 I’m currently honing my skills in JavaScript, CSS, and React, with a focus on building responsive and user-centered interfaces.
 - 💞️ I’m looking to collaborate on projects that push the boundaries of front-end, especially those related to UI/UX design, accessibility, and performance optimization.
